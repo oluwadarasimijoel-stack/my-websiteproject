@@ -1,0 +1,131 @@
+.tex input{
+    padding: 20px;
+width: 485px;
+border-radius: 15px;
+text-align: right;
+}
+.app{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+body{
+    background-color: gray;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 96px;
+    align-items: center;
+    padding: 258px;
+}
+.every{
+     align-items: center;
+    background-color: white;
+     width: 500px;
+    position: relative;
+            z-index: 1;
+            padding: 42px;
+            background: rgba(255, 255, 255, 0.15);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            border-radius: 20px;
+            backdrop-filter: blur(15px);
+            -webkit-backdrop-filter: blur(15px);
+            box-shadow: 0 25px 45px rgba(0, 0, 0, 0.2);
+            color: white;
+            display: flex;
+            flex-direction: column;
+}
+.for button{
+    background-color: darkslategrey;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 19px;
+    color: white;
+}
+.fo button{
+     background-color: grey;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 19px;
+    color: white;
+    
+}
+.foik button{
+     background-color: orange;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 19px;
+    color: white;
+}
+.geud{
+     display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+.babs{
+     display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.bab{
+     display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.bah{
+     display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.fak button{
+    background-color: grey;
+    margin-right: 7px;
+    padding: 10px;
+    border-radius: 19px;
+    width: 90px;
+}
+.clear button{
+     background-color: orange;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 19px;
+    color: white;
+}
+.dara{
+     display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.dag{
+     display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.shem{
+     display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+.part{
+
+    display: flex;
+    flex-direction: row;
+   
+}
+.cac{
+     display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.dam button{
+     background-color: lightgray;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 19px;
+    color: white;
+}
+.last{
+    display: flex;
+    flex-direction: row;
+    gap: 1px;
+}

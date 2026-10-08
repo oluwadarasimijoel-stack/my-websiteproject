@@ -1,0 +1,75 @@
+body{
+    background-color: skyblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+    padding: 400px;
+}
+.whole{
+    display: flex;
+    flex-direction: row;
+    gap: 150px;
+    color: black;
+} 
+.dada{
+font-family: monospace;
+font-size: 15px;
+}
+.nik{
+ display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding:100px;
+    justify-content: center;
+align-items: center;
+border-radius: 12px;
+gap: 15px;
+}
+.top input{
+    border-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.tes input{
+    border-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.rend input{
+    border-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.rain input{
+    border-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.tai input{
+    border-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.soh input{
+    border-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.damn{
+    font-family: monospace;
+    font-size: 15px;
+}
+.hod button{
+    background-color: skyblue;
+    border-color: skyblue;
+    border-radius: 5px;
+    width: 100%;
+    padding: 10px;
+    color: white;
+    
+}
+.kaib{
+    font-family: monospace;
+    font-size: 15px;
+}
+.chai{
+    font-family: monospace;
+    font-size: 20px;
+}
+.high{
+    color: white;
+    font-size: 65px;
+}

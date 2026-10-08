@@ -1,0 +1,146 @@
+body{
+    background-color: #EBE8E1;
+  color: #0A3353;
+  margin: 0%;
+}
+.nava{
+    display: flex;
+justify-content: space-between;
+align-items: center;
+flex-direction: row;
+background-color: white;
+
+}
+.navbar{
+     display: flex;
+    gap: 20px;
+}
+.navbar a{
+    text-decoration: none;
+    color: #EBE8E1;
+}
+.hom{
+    padding: 12px;
+    margin: 15px;
+    background-color: #00A8B5;
+      border-radius: 5px;
+}
+.ser{
+     padding: 12px;
+    margin: 15px;
+    background-color: #00A8B5;
+      border-radius: 5px;
+}
+.for{
+     padding: 12px;
+    margin: 15px;
+    background-color: #00A8B5;
+      border-radius: 5px;
+}
+.abo{
+     padding: 12px;
+    margin: 15px;
+    background-color: #00A8B5;
+      border-radius: 5px;
+}
+.overr{
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  gap: 30px;
+}
+.part{
+  display: flex;
+  flex-direction: row;
+}
+.pre{
+  padding: 80px;
+  height: 95px;
+  width: 690px;
+  margin-right: 205px;
+  margin-top: 70px;
+}
+.rep{
+  padding: 50px;
+  margin-left: 200px;
+}
+.rand{
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  padding: 40px;
+  align-items: center;
+}
+.rad{
+           z-index: 1;
+            padding: 42px;
+            background: rgba(255, 255, 255, 0.15);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            border-radius: 20px;
+            backdrop-filter: blur(15px);
+            -webkit-backdrop-filter: blur(15px);
+            box-shadow: 0 25px 45px rgba(0, 0, 0, 0.2);
+            width: 370px;
+}
+.rem{
+           z-index: 1;
+            padding: 42px;
+            background: rgba(255, 255, 255, 0.15);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            border-radius: 20px;
+            backdrop-filter: blur(15px);
+            -webkit-backdrop-filter: blur(15px);
+            box-shadow: 0 25px 45px rgba(0, 0, 0, 0.2);
+width: 370px;
+}
+.mem{
+   z-index: 1;
+            padding: 42px;
+            background: rgba(255, 255, 255, 0.15);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            border-radius: 20px;
+            backdrop-filter: blur(15px);
+            -webkit-backdrop-filter: blur(15px);
+            box-shadow: 0 25px 45px rgba(0, 0, 0, 0.2);
+            width: 370px;
+}
+.foot{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.can{
+    display: flex;
+    flex-direction: row;
+}
+.cram{
+     padding: 55px;
+width: 275px;
+height: 105px;
+}
+.py{
+    padding: 55px;
+   display: flex;
+   flex-direction: column;
+height:169px;
+}
+.ont{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 4px;
+}
+.coap{
+     display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 4px;
+}
+.para{
+      display: flex;
+    flex-direction: row;
+    gap: 4px;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+}

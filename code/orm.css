@@ -1,0 +1,174 @@
+body{
+     background-color: #EBE8E1;
+  color: #0A3353;
+  margin: 0%;
+}
+
+.entire{
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+   
+}
+.navarr{
+    display: flex;
+justify-content: space-between;
+align-items: center;
+flex-direction: row;
+background-color: white;
+}
+.navba{
+    display: flex;
+    gap: 20px;
+}
+.navba a{
+    text-decoration: none;
+    color: #EBE8E1;
+}
+.hom{
+    padding: 12px;
+    margin: 15px;
+    background-color: #00A8B5;
+      border-radius: 5px;
+}
+.ser{
+     padding: 12px;
+    margin: 15px;
+    background-color: #00A8B5;
+      border-radius: 5px;
+}
+.for{
+     padding: 12px;
+    margin: 15px;
+    background-color: #00A8B5;
+      border-radius: 5px;
+}
+.abo{
+     padding: 12px;
+    margin: 15px;
+    background-color: #00A8B5;
+      border-radius: 5px;
+}
+.part{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-left: 500px;
+    gap: 300px;
+}
+.two{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+.las{
+    display: flex;
+    flex-direction: column;
+gap: 50px;
+}
+.ball{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+}
+.under{
+    display: flex;
+    flex-direction: column;
+}
+.what{
+    text-decoration: none;
+ 
+  color: white;
+  padding: 15px;
+  
+}
+.below{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+    
+}
+.velo{
+    display: flex;
+    flex-direction: column;
+}
+.inter{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.sop{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.sup{
+     display: flex;
+    flex-direction: column;
+    gap: 10px;
+ 
+}
+.sup input{
+       height: 40px;
+       border-radius: 6px;
+       
+}
+.sub{
+    padding: 25px;
+    width: 105px;
+    background-color: #00A8B5;
+}
+.push{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+     background-color: #25D366;
+     border-radius: 8px;
+     }
+      
+.baba{
+color: white;
+}
+.foot{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.can{
+    display: flex;
+    flex-direction: row;
+}
+.cram{
+     padding: 55px;
+width: 275px;
+height: 105px;
+}
+.py{
+    padding: 55px;
+   display: flex;
+   flex-direction: column;
+height:169px;
+}
+.ont{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 4px;
+}
+.coap{
+     display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 4px;
+}
+.para{
+      display: flex;
+    flex-direction: row;
+    gap: 4px;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+}

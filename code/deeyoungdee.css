@@ -1,0 +1,169 @@
+.overseer{
+   display: flex;
+    flex-direction: column;
+    
+    gap: 70px;
+    
+}
+body{
+    background-color: #EBE8E1;
+  color: #0A3353;
+  margin: 0%;
+
+}
+
+.nava {
+display: flex;
+justify-content: space-between;
+align-items: center;
+flex-direction: row;
+background-color: white;
+
+}
+
+.navbar{
+    display: flex;
+    gap: 10px;
+    margin: 0%;
+   
+}
+
+.navbar a{
+        text-decoration: none;
+    color: #EBE8E1;
+}
+
+.wed{
+    display: flex;
+    flex-direction: row;
+    gap: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.dam{
+     background: rgba(225, 225, 225, 0.15);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 0 25px 45px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    padding: 30px;
+    align-items: center;
+    width: 485px;
+}
+
+.all{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    gap: 40px;
+    align-items: center;
+}
+
+.shy{
+      background: rgba(225, 225, 225, 0.15);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 0 25px 45px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    padding: 30px;
+    align-items: center;
+    width: 485px;
+    
+}
+.shege{
+     display: flex;
+     flex-direction: row;
+    gap: 15px;
+    list-style: none;
+    justify-content: center;
+}
+
+
+.la{
+display: flex;
+flex-direction: row;
+gap: 75px;
+
+}
+
+.fot{
+    text-align: center;
+    
+}
+
+.homie{
+text-align: center;
+    
+}
+
+.btn a{
+    color: #EBE8E1;
+    border-radius: 5px;
+     text-decoration: none;
+     background:#00A8B5;
+     padding: 10px;
+     margin: 30px;
+}
+
+
+.air{
+    padding: 55px;
+width: 275px;
+height: 105px;
+}
+
+.copy{
+   padding: 55px;
+   display: flex;
+   flex-direction: column;
+height:169px;
+  
+}
+.para{
+    font-style: italic;
+}
+
+.cont{
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+    align-items: center;
+}
+
+.costap{
+      display: flex;
+    flex-direction: row;
+    gap: 4px;
+    align-items: center;
+}
+.hom{
+     background-color: #00A8B5;
+    padding: 12px;
+    margin: 15px;
+     border-radius: 5px;
+}
+.ser{
+     background-color: #00A8B5;
+    padding: 12px;
+    margin: 15px;
+     border-radius: 5px;
+}
+.for{
+     background-color: #00A8B5;
+    padding: 12px;
+    margin: 15px;
+     border-radius: 5px;
+}
+.abo{
+     background-color: #00A8B5;
+    padding: 12px;
+    margin: 15px;
+     border-radius: 5px;
+}
+.para{
+      display: flex;
+    flex-direction: row;
+    gap: 4px;
+    align-items: center;
+    justify-content: center;
+}
+

@@ -1,0 +1,146 @@
+.joogo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+body{
+    background-color: #EBE8E1;
+  color: #0A3353;
+  margin: 0%;
+
+}
+
+.navac{
+    display: flex;
+justify-content: space-between;
+align-items: center;
+flex-direction: row;
+background-color: white;
+}
+
+.navbarr{
+    display: flex;
+    gap: 10px;
+    
+}
+
+.navbarr a{
+        text-decoration: none;
+    color: #EBE8E1;
+}
+.moh{
+ background-color: #00A8B5;
+    padding: 12px;
+    margin: 15px;
+    border-radius: 5px;
+}
+.rof{
+     background-color: #00A8B5;
+    padding: 12px;
+    margin: 15px;
+     border-radius: 5px;
+}
+.res{
+     background-color: #00A8B5;
+    padding: 12px;
+    margin: 15px;
+     border-radius: 5px;
+}
+.oba{
+     background-color: #00A8B5;
+    padding: 12px;
+    margin: 15px;
+     border-radius: 5px;
+}
+.ogo{
+    display: flex;
+    flex-direction: column;
+gap: 2px;
+}
+.sham{
+    display: flex;
+    flex-direction: row;
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 45px;
+}
+.marsh{
+    background: rgba(225, 225, 225, 0.15);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 0 25px 45px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    padding: 30px;
+    align-items: center;
+    width: 485px;
+}
+.doho{
+    background: rgba(225, 225, 225, 0.15);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 0 25px 45px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    padding: 30px;
+    align-items: center;
+    width: 485px;
+}
+.lap{
+    display: flex;
+    flex-direction: column;
+    gap: 65px;
+}
+.dogo{
+    display: flex;
+    flex-direction: row;
+    gap: 75px;
+    justify-content: center;
+}
+.tof{
+    align-items: center;
+    text-align: center;
+}
+.shem{
+      padding: 55px;
+width: 275px;
+height: 105px;
+}
+.py{
+    padding: 55px;
+   display: flex;
+   flex-direction: column;
+height:169px;
+}
+.ont{
+ display: flex;
+    flex-direction: row;
+    gap: 4px;
+    align-items: center;
+}
+.coap{
+     display: flex;
+    flex-direction: row;
+    gap: 4px;
+    align-items: center;
+}
+.para{
+      display: flex;
+    flex-direction: row;
+    gap: 4px;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+}
+.acc{
+    background: rgba(225, 225, 225, 0.15);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 0 25px 45px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    padding: 30px;
+    align-items: center;
+    width: 485px;
+height: 650px;
+    gap: 15px;
+   
+}
